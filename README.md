@@ -1,4 +1,4 @@
-- Hi, I’m Jeneta Nwosu (@jadannanwosu), a student at Vanderbilt University
+- Hi, I’m Jeneta Nwosu (@jadannanwosu), an economics/data science student at Vanderbilt University :)
 
 <!---
 jadannanwosu/jadannanwosu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
